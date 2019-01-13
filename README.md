@@ -1,9 +1,9 @@
 # flutter clipping ui
 
-A simple flutter project, demostrating how great flutter clipping its...
+A simple flutter profile UI
 
 <p align="center">
-  <img src="https://github.com/Wizpna/flutter_clipping_ui/blob/master/screenshot/Screenshot_20190112-074612.png" width="350" title="Screenshot">
+  <img src="https://github.com/Wizpna/flutter_profile_ui/blob/master/screenshot/Screenshot_20190113-194533.png" width="350" title="Screenshot">
 </p>
 
 Contact - Let's become friend
